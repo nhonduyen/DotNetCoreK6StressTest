@@ -1,0 +1,5 @@
+﻿const API_BASE_URL = 'https://localhost:7085/';
+const API_GETALL_PRODUCT_URL = API_BASE_URL + 'getall';
+const API_GENERATE_PRODUCT_URL = API_BASE_URL + 'generate/';
+
+export { API_GETALL_PRODUCT_URL, API_GENERATE_PRODUCT_URL };
